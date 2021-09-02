@@ -41,7 +41,7 @@ main > h1 {
  }
 .container {
   color: #fff;
-  background-color: #333;
+  background-color:lightgray;
   margin: 0 auto;
   text-align: center;
   padding-top: 3em;
