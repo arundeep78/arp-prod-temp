@@ -27,7 +27,7 @@
             countdown = document.getElementById("countdown"),
             content = document.getElementById("content");
    
-          headline.innerText = "It's my birthday!";
+          headline.innerText = "Arctic Risk Platform to be launched soon!";
           countdown.style.display = "none";
           content.style.display = "block";
    
