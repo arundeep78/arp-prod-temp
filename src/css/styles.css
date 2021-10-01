@@ -14,9 +14,10 @@ html,body {
 body {
   align-items: center;
   /* display: flex; */
-  font-family:  "Satoshi", sans-serif;
+  font-family:  Satoshi, sans-serif;
 }
 main {
+
   margin: auto;
   padding: 20px;
 }
